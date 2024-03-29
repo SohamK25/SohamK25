@@ -6,4 +6,4 @@
 
 📚 With strong communication skills and a quick learner mindset, I am always eager to collaborate on innovative projects and expand my knowledge horizons. Whether it's contributing to open-source initiatives or working on personal projects, I am committed to continuous growth and learning in the field of computer science.
 
-#TechEnthusiast #ComputerScience
+#TechEnthusiast #ComputerScience #Developer
